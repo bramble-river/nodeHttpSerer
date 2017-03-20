@@ -1,0 +1,11 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "node web开发第五章--web服务器",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "李红艳",
+  "license": "ISC"
+}
